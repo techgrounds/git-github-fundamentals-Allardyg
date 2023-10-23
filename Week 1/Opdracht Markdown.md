@@ -1,5 +1,4 @@
-# [Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+# Markdown
 Maak een Markdown-document met je gekozen editor. Je document moet de volgende elementen bevatten:  
         Een level 1 header  
         Een level 2 header  
@@ -9,7 +8,9 @@ Maak een Markdown-document met je gekozen editor. Je document moet de volgende e
     Push dit document naar je portfolio-repository  
     
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+
+Markdown:
+```Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).```
 
 ## Opdracht  
 # level 1 Header  
