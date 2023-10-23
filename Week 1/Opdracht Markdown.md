@@ -11,18 +11,19 @@ Maak een Markdown-document met je gekozen editor. Je document moet de volgende e
 ## Key-terms
 [Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
 
-## Opdracht
-# level 1 Header
-## Lever 2 Header
-### Codeblock
-```Hello World```
-**bold text**
- ## website link
+## Opdracht  
+# level 1 Header  
+## Lever 2 Header  
+### Codeblock  
+```Hello World```  
+**bold text**  
+ ## website link  
  [www.google.com](url)
  
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
-https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+[https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks  ](url)
+[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  ](url)
+
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
