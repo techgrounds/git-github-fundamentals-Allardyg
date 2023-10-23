@@ -16,7 +16,14 @@ Markdown:
 # level 1 Header  
 ## Lever 2 Header  
 ### Codeblock  
-```Hello World```  
+```
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+```
+
 **bold text**  
  ## website link  
  [www.google.com](url)
