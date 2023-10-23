@@ -33,7 +33,7 @@ int main() {
 [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  ](url)
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+Het lijkt er op dat er meerdere manieren zijn om hetzelfde te bereiken, hier is geen oplossing voor nodig.
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+Als ik het bestand bekijk op github zie ik dat ik headers heb van verschillende grootte, een codeblock, dikgedrukte tekst, en een website link.
