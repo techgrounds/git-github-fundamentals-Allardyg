@@ -34,6 +34,7 @@ int main() {
 
 ### Ervaren problemen
 Het lijkt er op dat er meerdere manieren zijn om hetzelfde te bereiken, hier is geen oplossing voor nodig.
+Ook had ik een problee
 
 ### Resultaat
 Als ik het bestand bekijk op github zie ik dat ik headers heb van verschillende grootte, een codeblock, dikgedrukte tekst, en een website link.
